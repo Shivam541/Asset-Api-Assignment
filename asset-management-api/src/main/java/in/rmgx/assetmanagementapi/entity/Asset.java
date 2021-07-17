@@ -29,7 +29,7 @@ public class Asset {
 	 * Holds the unique name of an asset.
 	 */
 	@Id
-	@Column(name="id")
+	@Column(name="name")
 	private String name;
 
 	/**
