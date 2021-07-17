@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"in.rmgx.assetmanagementapi"},{"l":"in.rmgx.assetmanagementapi.entity"},{"l":"in.rmgx.assetmanagementapi.repository"},{"l":"in.rmgx.assetmanagementapi.rest"},{"l":"in.rmgx.assetmanagementapi.service"}]
